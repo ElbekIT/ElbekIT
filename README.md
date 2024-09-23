@@ -1,4 +1,4 @@
-- 👋 Salom Men Elbek
+- 👋 Salom Men Elbek Qoriyev
 - 👀 Men ko'praq it soxadagi videolarni koraman
 - 🌱 va yana design soxaga qiziqishim kotta
 - 📢 Design soxalar bo'yicha tajribam 2.3.4 yil
