@@ -73,7 +73,7 @@
 
 - 🔭 I’m building powerful bots and websites
 - 🧠 Always learning something new
-- 🎮 Love mixing gaming and coding
+- 🎮 Love mixing gaming and codingf
 - 📫 Reach me via Telegram: [@elbekwep](https://t.me/elbekwep)
 
 ---
