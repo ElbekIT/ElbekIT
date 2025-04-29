@@ -41,20 +41,19 @@
 
 ### 📈 GitHub Stats & Activity
 
+<!-- Stats and Contributions Section -->
+
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ElbekIT&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=ElbekIT&theme=tokyonight" alt="GitHub Streak"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ElbekIT&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=tokyonight&include_all_commits=true&hide=prs&card_width=400" alt="GitHub Stats"/>
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=ElbekIT&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="GitHub Streak Stats"/>
 </p>
+
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElbekIT&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElbekIT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
----
-
-### 📊 GitHub Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElbekIT&theme=github-compact&area=true" alt="GitHub Activity Graph"/>
+  <img width="47%" src="https://github-readme-activity-graph.vercel.app/graph?username=ElbekIT&theme=github-compact&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
